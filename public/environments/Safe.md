@@ -1,0 +1,23 @@
+# Environment variables declared in this file are automatically made available to Prisma.
+# See the documentation for more detail: https://pris.ly/d/prisma-schema#accessing-environment-variables-from-the-schema
+
+# Prisma supports the native connection string format for PostgreSQL, MySQL, SQLite, SQL Server, MongoDB and CockroachDB.
+# See the documentation for all the connection string options: https://pris.ly/d/connection-strings
+
+DATABASE_URL="file:./dev.db"
+
+
+# Update these with your Supabase details from your project settings > API
+# https://app.supabase.com/project/_/settings/api
+NEXT_PUBLIC_SUPABASE_URL=https://gtdylnvyoxettpvbdwir.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imd0ZHlsbnZ5b3hldHRwdmJkd2lyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzU1NDMxMzcsImV4cCI6MjA1MTExOTEzN30.a18r0z2IUvQJSdKwC2BlKy9HUz8w4nJYO8G9gvmGaAE
+NEXT_PUBLIC_FIREBASE_API_KEY=AIzaSyCh1rjxh_WQJ8mPcPfw_I_9A8m-ycbWQkE
+NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=aaptha-demo-dev.firebaseapp.com
+NEXT_PUBLIC_FIREBASE_PROJECT_ID=aaptha-demo-dev
+NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=aaptha-demo-dev.firebasestorage.app
+NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=507000513745
+NEXT_PUBLIC_FIREBASE_APP_ID=1:507000513745:web:442646c9e247948352d1f0
+NEXT_PUBLIC_FIREBASE_DATABASE_URL=https://aaptha-demo-dev-default-rtdb.asia-southeast1.firebasedatabase.app
+NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID=G-T282CJKP36
+# DATABASE_URL="prisma+postgres://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiMDU4ZjY3MjAtN2RmNC00ZDAwLWIyNzItMDU2OTY1NTk3ZTcxIiwidGVuYW50X2lkIjoiMjhkZWQxOTcyMmYxNDJjNWU2YWVhOTg3ZDZlMWEyNTFmMjU0ZTJmNGQ4OTQ3NGZhNGZhZDc4ZGJjN2NkYmFmOCIsImludGVybmFsX3NlY3JldCI6Ijk3MjJlMmNkLTQ2YzktNDFiYS1hNDVkLWYxNjYzMzIxZGIyNSJ9.e-l_3FQzSR7Xjeta7ZrG4AMOEbktLsIWMOyVSYXt9RQ"
+# PULSE_API_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiMDU4ZjY3MjAtN2RmNC00ZDAwLWIyNzItMDU2OTY1NTk3ZTcxIiwidGVuYW50X2lkIjoiMjhkZWQxOTcyMmYxNDJjNWU2YWVhOTg3ZDZlMWEyNTFmMjU0ZTJmNGQ4OTQ3NGZhNGZhZDc4ZGJjN2NkYmFmOCIsImludGVybmFsX3NlY3JldCI6Ijk3MjJlMmNkLTQ2YzktNDFiYS1hNDVkLWYxNjYzMzIxZGIyNSJ9.e-l_3FQzSR7Xjeta7ZrG4AMOEbktLsIWMOyVSYXt9RQ"
